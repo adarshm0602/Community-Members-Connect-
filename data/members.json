@@ -1,0 +1,74 @@
+[
+  {
+    "id": "m1",
+    "name": "Ananya Sharma",
+    "role": "Product Manager",
+    "company": "CRED",
+    "expertise": ["product-led growth", "fintech UX", "gamification"],
+    "goals": ["learn D2C retention strategies", "connect with early-stage founders"],
+    "bio": "Building reward experiences at CRED, obsessed with making boring finance feel magical."
+  },
+  {
+    "id": "m2",
+    "name": "Rohit Mehra",
+    "role": "Growth Lead",
+    "company": "Zepto",
+    "expertise": ["quick commerce", "performance marketing", "retention loops"],
+    "goals": ["explore B2B SaaS growth", "mentor early-stage marketers"],
+    "bio": "Scaled Zepto's reorder rate by 3x, now figuring out what makes users come back before they even leave."
+  },
+  {
+    "id": "m3",
+    "name": "Priya Iyer",
+    "role": "Founder & CEO",
+    "company": "NutriBox (D2C health snacks)",
+    "expertise": ["D2C brand building", "community-led growth", "supply chain ops"],
+    "goals": ["crack retention beyond first purchase", "find a growth marketer co-founder"],
+    "bio": "Ex-McKinsey, quit consulting to build India's cleanest snack brand — now shipping 10K boxes a month."
+  },
+  {
+    "id": "m4",
+    "name": "Vikram Desai",
+    "role": "Head of Marketing",
+    "company": "Razorpay",
+    "expertise": ["B2B SaaS marketing", "content strategy", "developer marketing"],
+    "goals": ["understand consumer growth tactics", "build a personal brand on LinkedIn"],
+    "bio": "Helped Razorpay become the default payments brand for Indian startups through developer-first storytelling."
+  },
+  {
+    "id": "m5",
+    "name": "Sneha Reddy",
+    "role": "Senior PM",
+    "company": "Swiggy",
+    "expertise": ["marketplace dynamics", "logistics tech", "experimentation frameworks"],
+    "goals": ["transition to a founder role", "learn fundraising basics"],
+    "bio": "Runs Swiggy Instamart's catalog intelligence — turning messy grocery data into 10-minute magic."
+  },
+  {
+    "id": "m6",
+    "name": "Arjun Kapoor",
+    "role": "Founder",
+    "company": "StackAuth (B2B SaaS, auth infra)",
+    "expertise": ["developer tools", "PLG motions", "early-stage fundraising"],
+    "goals": ["get first 100 paying customers", "learn enterprise sales"],
+    "bio": "Building authentication infrastructure so devs never have to think about login flows again — YC W24 batch."
+  },
+  {
+    "id": "m7",
+    "name": "Meera Joshi",
+    "role": "Content & Community Lead",
+    "company": "Lenskart",
+    "expertise": ["influencer marketing", "brand storytelling", "community building"],
+    "goals": ["learn growth engineering", "explore product management roles"],
+    "bio": "Built Lenskart's creator program from zero to 500+ creators driving 15% of new customer acquisition."
+  },
+  {
+    "id": "m8",
+    "name": "Karthik Nair",
+    "role": "Growth PM",
+    "company": "Freshworks",
+    "expertise": ["PLG analytics", "pricing experiments", "international expansion"],
+    "goals": ["understand India-first D2C playbooks", "connect with consumer startup folks"],
+    "bio": "Optimizing Freshworks' self-serve funnel across 12 countries — obsessed with activation metrics that actually move revenue."
+  }
+]

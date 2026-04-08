@@ -1,0 +1,52 @@
+[
+  {
+    "post_id": "p1",
+    "author_id": "m3",
+    "content": "We're doing 10K boxes/month but repeat rate is stuck at 18%. Tried email flows, WhatsApp nudges, even a loyalty program — nothing moves the needle. Anyone cracked D2C retention beyond the first purchase? Would love to jam with someone who's figured this out."
+  },
+  {
+    "post_id": "p2",
+    "author_id": "m6",
+    "content": "Just crossed 50 developers on the free tier of StackAuth but zero conversions to paid. The product is sticky — usage is high — but nobody wants to pay. Any PLG folks here who've solved the free-to-paid gap? Happy to share our auth infra learnings in return."
+  },
+  {
+    "post_id": "p3",
+    "author_id": "m1",
+    "content": "Sharing a lesson from CRED: we tested 14 different reward mechanics last quarter. The winner wasn't the biggest reward — it was the one with the shortest feedback loop. Instant gratification > delayed value. Applies to any product with a habit loop."
+  },
+  {
+    "post_id": "p4",
+    "author_id": "m5",
+    "content": "I've been a PM at Swiggy for 4 years and I'm seriously considering the founder leap. The idea is in logistics-tech. Would love to connect with founders who've made the corporate-to-startup jump recently. How did you validate your idea while still employed?"
+  },
+  {
+    "post_id": "p5",
+    "author_id": "m7",
+    "content": "Hot take: influencer marketing for D2C brands is broken. We're seeing 80% of ROI come from micro-creators (under 10K followers), not the big names. Built a playbook at Lenskart around this — happy to share the framework with anyone building a creator program."
+  },
+  {
+    "post_id": "p6",
+    "author_id": "m2",
+    "content": "Curious about B2B SaaS growth — feels like a completely different muscle from consumer. At Zepto, everything is about speed and frequency. In SaaS, it seems like activation and expansion matter more. Anyone from B2B willing to do a growth framework exchange?"
+  },
+  {
+    "post_id": "p7",
+    "author_id": "m4",
+    "content": "We ran a developer community experiment at Razorpay — gave 200 developers early API access with zero marketing. 40% became organic advocates. Developer trust > developer marketing. Looking to chat with folks doing consumer community plays — want to see the other side."
+  },
+  {
+    "post_id": "p8",
+    "author_id": "m8",
+    "content": "Freshworks pricing insight: we A/B tested annual vs monthly default on the pricing page across 6 geos. India and SEA strongly prefer monthly, US/EU prefer annual. Localization isn't just language — it's business model. Anyone doing India-first D2C pricing? Would love to compare notes."
+  },
+  {
+    "post_id": "p9",
+    "author_id": "m3",
+    "content": "Looking for a growth-minded co-founder for NutriBox. We have product-market fit and revenue, but I need someone who can own the entire growth engine — performance marketing, retention, referrals. If you know someone cracked, please intro me."
+  },
+  {
+    "post_id": "p10",
+    "author_id": "m5",
+    "content": "Learnings from running 200+ A/B tests at Swiggy Instamart: most teams over-index on statistical significance and under-index on practical significance. A 2% lift that ships in a week beats a 5% lift that takes a month to validate. Speed of learning > precision of measurement."
+  }
+]
