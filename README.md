@@ -1,4 +1,4 @@
-# GrowthX Member Connect Agent
+# Member Connect Agent
 
 A multi-agent CLI tool that automatically identifies high-value connection opportunities between GrowthX community members and drafts personalized intro DMs. It scans community feed posts, detects signals (what members are seeking and offering), matches them with the best-fit member who can help, and writes warm, community-first introductions — all powered by Google Gemini.
 
@@ -72,6 +72,6 @@ python main.py
 --- Done! ---
 ```
 
-## Why This Matters for GrowthX
+## Why This Matters
 
 The hardest part of any professional community isn't getting members — it's making sure they find each other at the right time. Most valuable connections never happen because people don't know who else is in the room. This agent turns passive feed activity into active, high-context introductions — making the community feel smaller, warmer, and more useful. It's the difference between "a Slack group I'm in" and "the community that changed my career."
